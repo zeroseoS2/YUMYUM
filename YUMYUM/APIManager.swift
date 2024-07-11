@@ -11,7 +11,7 @@ class APIManager {
     static let shared = APIManager()  // Singleton 인스턴스
 
     private let baseURL = "http://openapi.foodsafetykorea.go.kr/api"
-    private let keyId = "9cd1dc014fd640c8839d"
+    private let keyId = ""
     private let serviceId = "COOKRCP01"
     private let dataType = "json"
     private let startIdx = "1"  // 시작 인덱스 설정
