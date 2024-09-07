@@ -2,15 +2,18 @@
 
 YUMYUM은 사용자가 원하는 레시피를 제공하며 자신의 레시피를 공유할 수 있는 앱
 
+
 ## 개요
 <div style="border: 1px solid #e1e4e8; color:#000000; padding: 16px; border-radius: 8px; background-color: #d4e7fa;">
 이 앱은 사용자가 원하는 메뉴의 레시피를 한눈에 보기 쉽게 제공한다. Swift를 사용해 iOS 앱을 개발한다. 공공데이터OpenAPI에서 조리식품의 레시피를 사용하여 레시피 정보를 제공하고, Firebase를 백엔드로 활용하여 사용자 인증, 데이터를 저장하여 구현한 앱이다.</div>
+
 
 ## 주요 기능
 - Firebase Authentication를 활용한 로그인과 회원가입
 - pickerview를 통해 오늘의 메뉴 랜덤 제공
 - 메뉴명, 재료 검색 기능
 - firestore와 storage를 활용한 레시피 추가, 수정, 삭제 기능
+
 
 ### Memo 실행 화면
 <div align="center">
@@ -26,6 +29,7 @@ YUMYUM은 사용자가 원하는 레시피를 제공하며 자신의 레시피�
   <img width="210" alt="KakaoTalk_20240708_010022106_09" src="https://github.com/user-attachments/assets/bd3407de-5368-41c1-8213-3c2f2178b7c5">
 </div>
 
+
 ## 사용 기술
 
 - **프론트엔드:**
@@ -35,6 +39,7 @@ YUMYUM은 사용자가 원하는 레시피를 제공하며 자신의 레시피�
 - **백엔드:**
   - 플랫폼: Firebase
   - 서비스: Firebase Authentication, Firebase Firestore, Firebase Storage
+
  
 ## 기대효과
 
@@ -43,6 +48,7 @@ YUMYUM은 사용자가 원하는 레시피를 제공하며 자신의 레시피�
 - **사용자 간 레시피 공유:** 사용자가 직접 레시피를 추가하고 공유할 수 있어, 다양한 사용자들의 요리 노하우를 나누며 커뮤니티 형성에 기여할 수 있습니다. 레시피를 수정하거나 삭제할 수 있는 기능도 있어 관리가 용이합니다.
 - **공공 데이터를 활용한 레시피 제공:** OpenAPI에서 제공하는 공공 데이터를 사용하여 다양한 조리식품의 레시피를 제공함으로써 신뢰성과 다양성을 확보할 수 있습니다.
 
+
 ## 기여 방법
 
 1. 이 저장소를 포크합니다.
@@ -50,6 +56,7 @@ YUMYUM은 사용자가 원하는 레시피를 제공하며 자신의 레시피�
 3. 변경 사항을 커밋합니다 (`git commit -m 'Add some feature'`).
 4. 브랜치에 푸시합니다 (`git push origin feature/your-feature`).
 5. 풀 리퀘스트를 작성합니다.
+
 
 ## 문의
 
