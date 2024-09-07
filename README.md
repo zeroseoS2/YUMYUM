@@ -14,8 +14,8 @@ YUMYUM은 사용자가 원하는 레시피를 제공하며 자신의 레시피�
 
 ### Memo 실행 화면
 <div align="center">
-  <img alt="KakaoTalk_20240708_010022106" src="https://github.com/user-attachments/assets/80cc6cb3-85a3-4fbf-ab90-ca4e71954f9d">
-  <img alt="KakaoTalk_20240708_010022106_01" src="https://github.com/user-attachments/assets/0a90f0ec-2b37-4b18-bc26-a4442d64447f">
+  <img width="300" alt="KakaoTalk_20240708_010022106" src="https://github.com/user-attachments/assets/80cc6cb3-85a3-4fbf-ab90-ca4e71954f9d">
+  <img width="300" alt="KakaoTalk_20240708_010022106_01" src="https://github.com/user-attachments/assets/0a90f0ec-2b37-4b18-bc26-a4442d64447f">
 </div>
 <div align="center">
 </div>
