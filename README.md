@@ -25,3 +25,13 @@ YUMYUM은 사용자가 원하는 레시피를 제공하며 자신의 레시피�
   <img width="210" alt="KakaoTalk_20240708_010022106_08" src="https://github.com/user-attachments/assets/1e1ba5e2-c1c0-412a-9251-a16eaf8ef380">
   <img width="210" alt="KakaoTalk_20240708_010022106_09" src="https://github.com/user-attachments/assets/bd3407de-5368-41c1-8213-3c2f2178b7c5">
 </div>
+
+## 사용 기술
+
+- **프론트엔드:**
+  - 개발 언어: Swift
+  - 플랫폼: iOS
+  - UI/UX: UIKit를 사용하여 사용자 인터페이스 구현
+- **백엔드:**
+  - 플랫폼: Firebase
+  - 서비스: Firebase Authentication, Firebase Firestore, Firebase Storage
